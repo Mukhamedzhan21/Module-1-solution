@@ -1,0 +1,26 @@
+body {
+	font-weight: bold;
+}
+
+a {
+	font-size: 30px;
+	color: black;
+}
+
+section {
+	position: relative;
+	background-color: gray;
+	margin: 15px;
+	padding: 10px;
+}
+
+h3 {
+	postition: absolute;
+	text-align: center;
+}
+
+#header-nav {
+	background-color: gray;
+	border-radius: 0;
+	border: 2px solid black;
+}
