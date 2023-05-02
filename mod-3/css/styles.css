@@ -7,16 +7,12 @@ h1 {
 	text-decoration: none;
 }
 
-h3 {
-	color: black;
-}
-
 section {
 	margin: 15px !important;
 }
 
 h3 {
-	postition: absolute;
+	color: black;
 	text-align: center;
 }
 
