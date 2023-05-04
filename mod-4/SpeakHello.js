@@ -11,7 +11,6 @@
 (function (window) {
   var helloSpeaker = {};
 
-  
   var speakWord = "Hello";
 
   // STEP 4: Rewrite the 'speak' function such that it is attached to the
